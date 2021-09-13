@@ -1,0 +1,19 @@
+# ninja log v5
+21	1216	6532559700948511	CMakeFiles/main.dir/src/device.cpp.obj	f82f41ae767f074e
+0	1225	6532559700948511	CMakeFiles/main.dir/main.cpp.obj	9b33fe9d94b5266a
+15	1232	6532559700948511	CMakeFiles/main.dir/src/date.cpp.obj	bbc106c89209ecd7
+33	1233	6532559701038455	CMakeFiles/main.dir/src/sensor.cpp.obj	7b8a91e128aec11c
+27	1242	6532559701248317	CMakeFiles/main.dir/src/channel.cpp.obj	314c6af1f97e8f67
+1243	1962	6532559707843160	main.exe	70a66f32d0b2d4b4
+1	1160	6532560221852610	CMakeFiles/main.dir/main.cpp.obj	9b33fe9d94b5266a
+26	1182	6532560221872577	CMakeFiles/main.dir/src/device.cpp.obj	f82f41ae767f074e
+14	1183	6532560221862592	CMakeFiles/main.dir/src/sensor.cpp.obj	7b8a91e128aec11c
+32	1189	6532560222182394	CMakeFiles/main.dir/src/channel.cpp.obj	314c6af1f97e8f67
+20	1213	6532560222432237	CMakeFiles/main.dir/src/date.cpp.obj	bbc106c89209ecd7
+1213	1612	6532560225390400	main.exe	70a66f32d0b2d4b4
+29	901	6532560373836840	CMakeFiles/main.dir/src/device.cpp.obj	f82f41ae767f074e
+16	929	6532560374176597	CMakeFiles/main.dir/src/date.cpp.obj	bbc106c89209ecd7
+0	969	6532560374566353	CMakeFiles/main.dir/main.cpp.obj	9b33fe9d94b5266a
+22	998	6532560374946118	CMakeFiles/main.dir/src/channel.cpp.obj	314c6af1f97e8f67
+35	1163	6532560376555109	CMakeFiles/main.dir/src/sensor.cpp.obj	7b8a91e128aec11c
+1163	1461	6532560378814016	main.exe	70a66f32d0b2d4b4
